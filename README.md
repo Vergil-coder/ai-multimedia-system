@@ -1,6 +1,8 @@
 # AI 多媒体处理系统
 
-一个基于 Next.js 和智谱 AI API 构建的多媒体处理系统，支持图片解析、AI 生图和 AI 生视频功能。
+一个基于 Next.js 和智谱 AI API 构建的多媒体处理系统，支持图片解析、AI 生图和 AI 生视频功能。觉得有帮助的话帮忙给我点个小小的赞～系列视频全网搜“快跑啊小卢\_”可以找到。
+
+B 站：https://www.bilibili.com/video/BV1fvrCYAEtW/?spm_id_from=333.1387.homepage.video_card.click&vd_source=5869d8876bc7b34117e7cd9de38fb760
 
 ## 功能特点
 
